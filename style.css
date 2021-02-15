@@ -1,0 +1,10 @@
+body{background-color: #a1cae2;
+padding: 0;
+margin: 0;}
+
+.ca{display: flex;justify-content: center;}
+ .card{margin: 4px;margin-bottom: 20px;box-shadow:-1px 1px 5px  #555;}
+ .card img{height: 240px;}
+ .card-body{background-color: #03506f;opacity: 0.8;}
+ .card-text{color: white;font-weight: bold;font-family:serif;text-align: center;}
+ .end{background-color:#555;text-align: center;font-weight: bold;color:  f6f5f5;opacity: 0.8;}
